@@ -1,0 +1,10 @@
+M:\RealTimeProject\BOL\bin\Release\BOL.dll
+M:\RealTimeProject\BOL\bin\Release\BOL.pdb
+M:\RealTimeProject\BOL\obj\Release\BOL.dll
+M:\RealTimeProject\BOL\obj\Release\BOL.pdb
+D:\New folder\RealTimeProject_Final\BOL\bin\Release\BOL.dll
+D:\New folder\RealTimeProject_Final\BOL\bin\Release\BOL.pdb
+D:\New folder\RealTimeProject_Final\BOL\obj\Release\BOL.csprojResolveAssemblyReference.cache
+D:\New folder\RealTimeProject_Final\BOL\obj\Release\BOL.csproj.CoreCompileInputs.cache
+D:\New folder\RealTimeProject_Final\BOL\obj\Release\BOL.dll
+D:\New folder\RealTimeProject_Final\BOL\obj\Release\BOL.pdb

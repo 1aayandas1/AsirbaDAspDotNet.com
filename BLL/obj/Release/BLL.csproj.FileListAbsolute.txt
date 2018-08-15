@@ -1,0 +1,20 @@
+M:\RealTimeProject\BLL\bin\Release\BLL.dll
+M:\RealTimeProject\BLL\bin\Release\BLL.pdb
+M:\RealTimeProject\BLL\bin\Release\BOL.dll
+M:\RealTimeProject\BLL\bin\Release\DAL.dll
+M:\RealTimeProject\BLL\bin\Release\BOL.pdb
+M:\RealTimeProject\BLL\bin\Release\DAL.pdb
+M:\RealTimeProject\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+M:\RealTimeProject\BLL\obj\Release\BLL.dll
+M:\RealTimeProject\BLL\obj\Release\BLL.pdb
+D:\New folder\RealTimeProject_Final\BLL\bin\Release\BLL.dll
+D:\New folder\RealTimeProject_Final\BLL\bin\Release\BLL.pdb
+D:\New folder\RealTimeProject_Final\BLL\bin\Release\BOL.dll
+D:\New folder\RealTimeProject_Final\BLL\bin\Release\DAL.dll
+D:\New folder\RealTimeProject_Final\BLL\bin\Release\BOL.pdb
+D:\New folder\RealTimeProject_Final\BLL\bin\Release\DAL.pdb
+D:\New folder\RealTimeProject_Final\BLL\bin\Release\DAL.dll.config
+D:\New folder\RealTimeProject_Final\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\New folder\RealTimeProject_Final\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\New folder\RealTimeProject_Final\BLL\obj\Release\BLL.dll
+D:\New folder\RealTimeProject_Final\BLL\obj\Release\BLL.pdb
